@@ -4,8 +4,8 @@ import (
   "log"
   "net/http"
   "os"
-  web "github.com/{{ YOUR_GITHUB_USERNAME }}/kudo-oos/pkg/http"
-  "github.com/{{ YOUR_GITHUB_USERNAME }}/kudo-oos/pkg/storage"
+  web "github.com/matthew-murphy/kudo-oos/pkg/http"
+  "github.com/matthew-murphy/kudo-oos/pkg/storage"
 )
 
 func main() {
